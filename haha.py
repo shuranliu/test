@@ -1,1 +1,2 @@
-prinrf("haha")
+print("haha")
+print("yueliang")
